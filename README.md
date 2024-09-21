@@ -10,7 +10,7 @@ A basic keylogger program that records and logs keystrokes, saving them to a fil
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/fidhathasnin/PRODIGY_CS-04.git`
+1. Clone the repository: `git clone https://github.com/rahulsajeevan4471/PRODIGY_CS-04.git`
 2. Install dependencies: `pip install pynput`
 3. Run the keylogger: `python keylogger.py`
 4. Press `ESC` to stop logging and exit the program.
